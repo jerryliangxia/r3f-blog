@@ -1,0 +1,57 @@
+[
+  {
+    "link": "/htn-planning",
+    "title": "Using HTN Planning to move NPCs",
+    "publishedAt": "2023-11-26"
+  },
+  {
+    "link": "/creating-venom",
+    "title": "Creating Venom from Spider-Man 2",
+    "publishedAt": "2023-11-15"
+  },
+  {
+    "link": "/astar-pathfinding",
+    "title": "Dynamic Pathfinding with A*",
+    "publishedAt": "2023-11-09"
+  },
+  {
+    "link": "/threejs-game",
+    "title": "Three.js Spider-Man Game",
+    "publishedAt": "2023-09-30"
+  },
+  {
+    "link": "/blender-contest",
+    "title": "3D Boss Fight Challenge",
+    "publishedAt": "2023-09-16"
+  },
+  {
+    "link": "/first-game",
+    "title": "First Game Developed!",
+    "publishedAt": "2023-08-20"
+  },
+  {
+    "link": "/mern-full-stack",
+    "title": "Creating a Full-stack MERN Website",
+    "publishedAt": "2022-02-05"
+  },
+  {
+    "link": "/quick-game-made",
+    "title": "Quick 3D Adventure Game",
+    "publishedAt": "2023-09-20"
+  },
+  {
+    "link": "/websites-ive-made",
+    "title": "Websites I've Made",
+    "publishedAt": "2022-02-16"
+  },
+  {
+    "link": "/python-reference",
+    "title": "Python Cheatsheet",
+    "publishedAt": "2022-09-10"
+  },
+  {
+    "link": "/leetcode-questions",
+    "title": "LeetCode Questions",
+    "publishedAt": "2022-09-19"
+  }
+]

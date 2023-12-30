@@ -1,0 +1,80 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #101010;
+  color: #ffffff;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: top;
+  min-height: 100vh;
+  padding: 60px 20px 20px 20px; /* Adjust the first value as needed */
+  width: 70%;
+  margin: auto;
+  padding-bottom: 5vh;
+}
+
+@media (max-width: 600px) {
+  .app-container {
+    width: 100%;
+  }
+}
+
+.navbar {
+  top: 0;
+  z-index: 1;
+  align-self: flex-start;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+.flexContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
+
+@media (max-width: 600px) {
+  .flexContainer {
+    flex-direction: column;
+  }
+}
+
+@media (min-width: 601px) {
+  .flexContainer {
+    flex-direction: row;
+  }
+}
+
+.post-div:hover {
+  transform: translateX(3px);
+}
+
+.btn {
+  color: gray;
+  transition: color 0.3s ease;
+}
+
+.btn:hover {
+  color: white;
+}
+
+.reel {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
