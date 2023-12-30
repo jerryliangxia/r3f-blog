@@ -40,7 +40,6 @@ function BlogPost() {
   }, [blogName]);
 
   useEffect(() => {
-    console.log(blogName);
     fetch("../../../posts/posts.json")
       .then((response) => response.json())
       .then((posts) => {
