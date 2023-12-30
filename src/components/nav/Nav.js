@@ -19,8 +19,7 @@ const Blog = ({ isWhite = false }) => {
   );
 };
 
-function Nav({ currentPath }) {
-  console.log(currentPath);
+function Nav() {
   return (
     <Theme accentColor="gray" radius="small">
       <Flex gap="4">

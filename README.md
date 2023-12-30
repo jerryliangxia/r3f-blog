@@ -1,3 +1,3 @@
 # Portfolio
 
-Deployment [here](https://jerryxia.com/).
+Deployment [here](https://r3f-blog-qikbkp889-jerryliangxia.vercel.app/blog).
